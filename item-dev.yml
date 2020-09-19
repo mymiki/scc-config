@@ -11,9 +11,9 @@ spring:
       maximum-pool-size: 20
       minimum-idle: 10
   redis:
-    host: 192.168.19.121
+    host: 47.104.157.227
   rabbitmq:
-    host: 192.168.19.121
+    host: 47.104.157.227
     username: /leyou
     password: leyou
     virtual-host: /leyou
