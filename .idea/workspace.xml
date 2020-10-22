@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1765714f-7122-4762-a17f-1829b67b4a40" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/auth-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/auth-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cart-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cart-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/comments-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/comments-dev.yml" afterDir="false" />
@@ -9,9 +10,9 @@
       <change beforePath="$PROJECT_DIR$/goodsweb-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/goodsweb-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/item-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/item-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registry-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/registry-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/search-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/search-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seckill-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/seckill-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sms-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/sms-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/upload-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/upload-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-dev.yml" afterDir="false" />
@@ -47,7 +48,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600508441958</updated>
-      <workItem from="1600508444389" duration="1747000" />
+      <workItem from="1600508444389" duration="2884000" />
+      <workItem from="1600567539866" duration="163000" />
+      <workItem from="1601256126899" duration="333000" />
+      <workItem from="1602308987267" duration="540000" />
+      <workItem from="1602472869549" duration="365000" />
+      <workItem from="1603354485274" duration="317000" />
     </task>
     <servers />
   </component>
