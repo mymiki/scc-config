@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1765714f-7122-4762-a17f-1829b67b4a40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mq-dev.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/auth-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/auth-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cart-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cart-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comments-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/comments-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goodsweb-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/goodsweb-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/item-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/item-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registry-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/registry-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/search-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seckill-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/seckill-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/upload-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/upload-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-dev.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +41,10 @@
       <workItem from="1601256126899" duration="333000" />
       <workItem from="1602308987267" duration="540000" />
       <workItem from="1602472869549" duration="365000" />
-      <workItem from="1603354485274" duration="317000" />
+      <workItem from="1603354485274" duration="1360000" />
+      <workItem from="1604457455153" duration="615000" />
+      <workItem from="1604461442557" duration="401000" />
+      <workItem from="1604488291721" duration="632000" />
     </task>
     <servers />
   </component>
@@ -61,9 +52,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="427" y="205" width="586" height="548" key="find.popup" timestamp="1600509358000">
+    <state x="427" y="205" width="586" height="548" key="find.popup" timestamp="1603354795302">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="427" y="205" width="586" height="548" key="find.popup/0.0.1440.900/1440.0.1920.1080@0.0.1440.900" timestamp="1600509358000" />
+    <state x="427" y="205" width="586" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1603354795302" />
   </component>
 </project>
